@@ -1,4 +1,3 @@
-/* start main Rulez*/
 *{
     font-family: 'Roboto', sans-serif;
 }
@@ -133,76 +132,6 @@ body {
 
 /* End header */
 
-
-/* 
-/* start Header */
-
-
-/* 
-.header .navbar {
-    background-color: #2A2A2A;
-    color: #FFF;
-    overflow: hidden;
-}
-
-.navbar .container {
-    display: flex;
-    justify-content: space-between;
-}
-
-.header .navbar h2 {
-    color: #81dbef;
-    font-family: 'Audiowide', cursive;
-}
-
-.header .navbar h2 span {
-    color: #a7e1ee
-}
-
-.header .navbar ul {
-    list-style: none;
-    padding-left: 0;
-    overflow: hidden;
-    float: right;
-}
-
-.header .navbar ul li {
-    float: left;
-    padding: 10px;
-}
-
-.header .navbar ul li a {
-    color: #FFF;
-    text-decoration: none;
-    padding: 5px;
-    font-size: 19px;
-    font-weight: bold;
-    font-family: 'Audiowide', cursive;
-    transition: 0.5s;
-}
-
-.header .navbar ul li.active a,
-.header .navbar ul li a:hover {
-    background-color: #81dbef;
-    border-radius: 8px;
-    color: black;
-} */
-
-
-/* @media (min-width: 768px) {
-    .header {
-        width: 100%;
-    }
-} */
-
-
-/* .clock-pirnt {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
-    justify-content: space-between;
-    align-items: center;
-    margin: 30px;
-} */
 
 h1 {
     color: #81dbef;

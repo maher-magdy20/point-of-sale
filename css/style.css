@@ -1,5 +1,4 @@
 * {
-    /* box-sizing: border-box; */
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
@@ -146,55 +145,6 @@ body {
 
 
 /* End header */
-
-
-/* 
-header {
-    background-color: rgb(255, 255, 255, .1);
-    color: #a7e1ee;
-    font-size: smaller;
-    display: flex;
-    padding: 5px;
-}
-
-header h1 {
-    font-family: 'Audiowide', cursive;
-    margin-left: 15px;
-    padding: 7px;
-}
-
-header nav {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-}
-
-ul {
-    list-style: none;
-    display: flex;
-}
-
-header nav ul li a {
-    font-family: 'Audiowide', cursive;
-    font-weight: bold;
-    padding: 10px;
-    margin: 4px;
-    display: block;
-    color: #a7e1ee;
-    text-decoration: none;
-    font-size: 19px;
-    transition: 0.5s;
-    position: relative;
-    z-index: 2;
-}
-
-header nav ul li:hover a,
-header nav ul .active {
-    background-color: #a7e1ee;
-    color: black;
-    border-radius: 8px; 
-}*/
 
 main {
     margin-top: 10px;
